@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+<p align="center">
+<img src="https://github.com/ashikmhs/FlutterCalculatorApp/blob/master/screensort/Screenshot.png" width="450"  />
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
